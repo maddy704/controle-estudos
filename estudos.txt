@@ -1,3 +1,16 @@
 1 git: conceitos básicos.
 2 gitHub: repositórios.
 3 VS Code: integrção com git.
+
+Git:
+-conseitos básicos.
+-commit.
+-branch.
+
+GitHub:
+-repositórios.
+-pull request.
+
+VS Code:
+-controle de versão.
+-crontrolando versões
